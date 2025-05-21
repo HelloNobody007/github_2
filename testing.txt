@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 this text file is created for testing purpose
 hello
+=======
+this text file is created for testing purpose "checking for merge conflicts"
+i like apples
+>>>>>>> 1ef1f5e0a8f95fe1bf8af08698713a76c37f0aaf
